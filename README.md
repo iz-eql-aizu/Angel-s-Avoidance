@@ -9,7 +9,7 @@
 
 ## Demo
 
-* ゲームプレイ動画は[こちら](https://youtu.be/bsv-jhvvEcs)から視聴できます。<br>
+* ゲームプレイ動画は[こちら](https://youtu.be/DG7UpIeHMT8)から視聴できます。<br>
 （ファイルサイズの都合上、ゲームプレイ動画をYouTubeにアップロードしました。）
 <br />
 
