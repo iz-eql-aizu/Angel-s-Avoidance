@@ -19,7 +19,7 @@
 　「Releases」にある「アプリケーション（v2.1）」からプレイできます。
 
 * WebGL版（パソコン、スマホ対応）<br>
-　[こちら](https://iz-eql-aizu.github.io/AsA_WebGL)から起動できます。<br>
+　[こちら](https://iz-eql-aizwi.github.io/AsA_WebGL)から起動できます。<br>
 　（このゲームのブラウザキャッシュを削除してから起動するとバージョンが最新になります。）
 <br />
 
